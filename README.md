@@ -1,5 +1,6 @@
 # Revalorificare_telefoane
 Proiect dezvoltat in cadrul stagiului de practica
+
 Acest proiect automatizeaza procesul de notificare si colectare a raspunsurilor pentru revalorificarea telefoanelor de serviciu, folosind Google Apps Script si Google Sheets.
 
 ## Functionalitati
